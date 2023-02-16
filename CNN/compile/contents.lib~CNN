@@ -1,0 +1,6 @@
+122
+~E 1 "../src/main.vhd" 7 CNN
+~A 1 "../src/main.vhd" 16 behavioral
+~E 1 "../src/TestBench/cnn_TB.vhd" 10 cnn_tb
+~A 1 "../src/TestBench/cnn_TB.vhd" 16 TB_ARCHITECTURE
+~C 1 "../src/TestBench/cnn_TB.vhd" 96 testbench_for_cnn

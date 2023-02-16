@@ -1,0 +1,4 @@
+.\src\utility.vhd
+.\src\PE.vhd
+.\src\main.vhd
+.\src\TestBench\cnn_TB.vhd

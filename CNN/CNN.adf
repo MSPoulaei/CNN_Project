@@ -1,0 +1,39 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=4
+Current Config=compile
+[Configurations]
+compile=CNN
+[Library]
+CNN=.\CNN\CNN.lib
+[$LibMap$]
+CNN=.
+Active_lib=
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+fileopenfolder=C:\Users\Sadegh\Desktop\code\Term5\CAD\CNN_Project\CNN\src
+[Files]
+/utility.vhd=-1
+/PE.vhd=-1
+/main.vhd=-1
+TestBench/cnn_TB.vhd=-1
+TestBench/cnn_TB_runtest.do=-1
+[Files.Data]
+.\src\utility.vhd=VHDL Source Code
+.\src\PE.vhd=VHDL Source Code
+.\src\main.vhd=VHDL Source Code
+.\src\TestBench\cnn_TB.vhd=VHDL Test Bench
+.\src\TestBench\cnn_TB_runtest.do=Macro
+[Groups]
+TestBench=1
+[SpecTracer]
+WindowVisible=0
+[HierarchyViewer]
+HierarchyInformation=cnn_tb|TB_ARCHITECTURE|0
+ShowHide=ShowTopLevel
+Selected=
